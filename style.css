@@ -1,0 +1,12 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+canvas {
+    width: 100%;
+    border: 2px solid black;
+    /* background: blue; */
+    /* border-radius: 2px; */
+}
